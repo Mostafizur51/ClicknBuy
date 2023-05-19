@@ -1,0 +1,60 @@
+*{ 
+    background-color: grey;
+}
+#logo{ 
+    height:100px;
+    width:200px;
+}
+ul{ 
+    
+    font-size: 30px;
+    font-family:'poppins' sans-serif;
+    text-decoration: none;
+    position:absolute;
+    left:50%;
+    top:20px;
+    
+}
+div ul li{ 
+    color:blue;
+    list-style: none;
+    text-decoration:none;
+    font-size: 30px;
+    top:20px;
+   
+}
+div ul li a{ 
+    text-decoration: none;
+
+    color:rgb(45, 7, 196);
+}
+.btn{ 
+     font-family: sans-serif;
+     width:100px;
+     height:30px;
+     border:2px solid aqua;
+     color:black;
+     font-style:normal;
+     font-size:20px;
+     cursor: pointer;
+     font-weight: bold;
+     font-style: italic;
+}
+.btn:hover{ 
+    background-color: aqua;
+    color:red;
+}
+#country,#city{ 
+
+     font-size: 20px;
+
+
+}
+#address{ 
+  height:50px;
+  width:370px;
+      
+}
+#email{ 
+    font-size: 20px;
+}
